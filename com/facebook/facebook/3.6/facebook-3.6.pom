@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook</groupId>
   <artifactId>facebook</artifactId>
-  <version>3.6.0</version>
+  <version>3.6</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
