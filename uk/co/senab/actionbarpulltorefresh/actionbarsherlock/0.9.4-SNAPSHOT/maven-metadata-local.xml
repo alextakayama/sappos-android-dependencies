@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>uk.co.senab.actionbarpulltorefresh</groupId>
+  <artifactId>actionbarsherlock</artifactId>
+  <version>0.9.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20140319165922</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>0.9.4-SNAPSHOT</value>
+        <updated>20140319165922</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.4-SNAPSHOT</value>
+        <updated>20140319165922</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

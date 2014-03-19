@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>uk.co.senab.actionbarpulltorefresh</groupId>
+  <artifactId>actionbarsherlock</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140319165922</lastUpdated>
+  </versioning>
+</metadata>
