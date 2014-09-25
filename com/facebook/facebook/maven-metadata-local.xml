@@ -3,8 +3,9 @@
   <groupId>com.facebook</groupId>
   <artifactId>facebook</artifactId>
   <versioning>
-    <release>3.6</release>
+    <release>3.18</release>
     <versions>
+      <version>3.18</version>
       <version>3.6</version>
       <version>3.5</version>
     </versions>
